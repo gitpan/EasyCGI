@@ -1,0 +1,18 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         EasyCGI
+version:      2.0.4
+version_from: EasyCGI.pm
+installdirs:  site
+requires:
+    CGI:                           0
+    Encode:                        0
+    File::Basename:                0
+    FileHandle:                    0
+    HTML::FillInForm:              0
+    HTML::Template:                0
+    MIME::Base64:                  0
+    Template:                      0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17

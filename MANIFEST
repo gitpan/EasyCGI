@@ -1,0 +1,9 @@
+CHANGES
+EasyCGI.pm
+INSTALL
+LICENSE
+Makefile.PL
+MANIFEST
+README
+t/EasyCGI.t
+META.yml                                 Module meta-data (added by MakeMaker)
